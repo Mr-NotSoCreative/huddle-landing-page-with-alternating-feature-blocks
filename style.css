@@ -142,7 +142,7 @@ a {
 footer {
   background-color: var(--Very-Dark-Cyan);
   color: white;
-  padding: 20rem 10rem;
+  padding: 20rem 10rem 5rem 10rem;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: auto auto;
@@ -254,7 +254,7 @@ aside {
     justify-items: start;
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-bottom: 1rem;
+    padding-bottom: 5rem;
   }
   .social-icon,
   .copyright-div,
